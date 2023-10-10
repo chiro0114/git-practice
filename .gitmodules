@@ -1,0 +1,3 @@
+[submodule "submodule/typescript-diary"]
+	path = submodule/typescript-diary
+	url = https://github.com/chiro0114/typescript-diary.git
